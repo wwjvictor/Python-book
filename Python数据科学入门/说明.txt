@@ -1,0 +1,6 @@
+Python数据科学
+（1）本书的代码
+https://www.dummies.com/store/product/Python-for-Date-Science-For-Dummies.productCd-1118844181,descCd-DOWNLOAD.html
+（2）本书作者的博客
+http://blog.johnmuellerbooks.com/category/technical/python-for-data-science-for-dummies/ 作者的博客
+http://blog.johnmuellerbooks.com/2015/11/30/warnings-in-python-and-anaconda/ 有关Python源代码的问题/非问题的作者博客
