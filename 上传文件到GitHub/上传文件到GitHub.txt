@@ -1,0 +1,15 @@
+在GitHub中创建库，
+克隆：git clone https://github.com/wwjvictor/test.git
+
+Python数据科学入门
+
+进入文件夹:
+cd c:test       ##进入到C盘中的test文件中，已经保存需要上传的文件
+git init
+git add "文件名"
+git commit -m "文件名"
+git remote re origin
+git remote add origin https://github.com/wwjvictor/test.git
+git pull origin master
+Git pull origin master
+
